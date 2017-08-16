@@ -1,0 +1,48 @@
+{
+	"name": "locker",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"awesome-phonenumber": "^1.5.0",
+		"convert-string": "^0.1.0",
+		"d3": "^4.10.0",
+		"faker": "^4.1.0",
+		"history": "^4.6.3",
+		"lodash": "^4.17.4",
+		"react": "16.0.0-alpha.12",
+		"react-mixin": "^3.1.0",
+		"react-native": "0.47.1",
+		"react-native-ble-manager": "^6.0.0",
+		"react-native-config": "^0.6.1",
+		"react-native-google-analytics-bridge": "^5.2.2",
+		"react-native-keep-awake": "^2.0.5",
+		"react-native-vector-icons": "^4.3.0",
+		"react-redux": "^5.0.6",
+		"react-router-native": "^4.1.1",
+		"react-router-redux": "next",
+		"react-timer-mixin": "^0.13.3",
+		"redux": "^3.7.2",
+		"redux-saga": "^0.15.6"
+	},
+	"devDependencies": {
+		"babel-jest": "20.0.3",
+		"babel-preset-react-native": "2.1.0",
+		"jest": "20.0.4",
+		"react-test-renderer": "16.0.0-alpha.12",
+		"reactotron-react-native": "^1.12.2",
+		"reactotron-redux": "^1.12.2",
+		"reactotron-redux-saga": "^1.12.2"
+	},
+	"jest": {
+		"preset": "react-native"
+	},
+	"rnpm": {
+		"assets": [
+			"./src/assets/fonts/"
+		]
+	}
+}
