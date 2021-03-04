@@ -3,7 +3,7 @@ Lokero
 
 Placed in the hallway of an apartment building, Lokero makes sending and receiving deliveries convenient and time-independent.
 
-![Image of Lokero](https://scrod.de/content/images/2017/09/lokero.jpg)
+![Image of Lokero](https://raw.githubusercontent.com/scrodde/lokero/master/lokero_concept.jpg
 
 About
 ======================
